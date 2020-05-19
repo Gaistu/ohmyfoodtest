@@ -1,0 +1,11 @@
+.header-main {
+  border: 1px solid $colour-primary;
+  background-color: $colour-primary;
+  padding: 20px;
+  text-align: center;
+
+  .logo-main {
+    width: 250px;
+    height: 60px;
+  }
+}
